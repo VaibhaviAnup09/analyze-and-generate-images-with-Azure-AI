@@ -14,7 +14,7 @@ This React application allows users to analyze images using Azure Cognitive Serv
 
 ## Getting Started
 
-### Clone the Repository
+Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/analyze-images-with-Azure-AI.git
